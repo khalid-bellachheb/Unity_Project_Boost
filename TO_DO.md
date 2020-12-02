@@ -50,4 +50,5 @@
 
 ###  Other Tasks
  - Create an new application with SimLab Composer with SolidWorks
+ - Work on Vector project
 
