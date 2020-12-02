@@ -36,3 +36,18 @@
  - See with my BOSS if it is possible to upload my Project on github
  - Trying to make the Ognion Diagram with the main features
 
+ ## 03/12/20
+
+### Blender
+
+ - Show how to reduce the number of ploygons in 3d object
+ - Smooth the 3d object
+ - Pack the the object members of the 3d model
+
+### Unity Editor
+
+ - Use XR TOOLkit To Create a new apk on oculus quest
+
+###  Other Tasks
+ - Create an new application with SimLab Composer with SolidWorks
+
