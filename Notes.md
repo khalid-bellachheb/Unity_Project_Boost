@@ -30,8 +30,9 @@
    - Keep top-level object scale close to (1,1,1).
    - Beware of Pivot/ center option ('#' Z key)
    - Ckeck objects rotates, scales and instantiates ok.
-### Translate Mode
-   - '#' Ctrl + SHift 
+### Shortcut KeyWord
+   - '#' Ctrl + SHift : Translate Mode
+   - '#' (Ctrl + h) * 2 : Refactoriser 
 
 
 ## 43. Basic Input Binding
@@ -52,3 +53,15 @@
 ### PlayeMode Tint
    - Edit -> Preferences -> colors
 ### Physics Engine
+
+### Frame-rate Independence 
+   - The time each frame takes can vary wildly
+   - Time.deltaTime tells you the last frame time
+   - This is a good prediction of the current frame time
+   - We can use this to adjust our mouvement
+   - Longer frames lead to more mouvement 
+   - Shorter frames lead to less mouvement
+   - e.g. "#" rotation = rcsThrust * Time.deltaTime.
+
+## 50. Using SerialField VS Public
+### PlayeMode Tint
