@@ -28,11 +28,11 @@
 ### Setting-up Compound Objects
    - Keep mesh away from top-level [Parent GameObject] so easy to swap.
    - Keep top-level object scale close to (1,1,1).
-   - Beware of Pivot/ center option ('#' Z key)
+   - Beware of Pivot/ center option (`#` Z key)
    - Ckeck objects rotates, scales and instantiates ok.
 ### Shortcut KeyWord
-   - '#' Ctrl + SHift : Translate Mode
-   - '#' (Ctrl + h) * 2 : Refactoriser 
+   - `#` Ctrl + SHift : Translate Mode
+   - `#` (Ctrl + h) * 2 : Refactoriser 
 
 
 ## 43. Basic Input Binding
