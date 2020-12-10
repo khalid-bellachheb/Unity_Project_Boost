@@ -32,7 +32,7 @@
    - Ckeck objects rotates, scales and instantiates ok.
 ### Shortcut KeyWord
    - `#` Ctrl + SHift : Translate Mode
-   - `#` (Ctrl + h) * 2 : Refactoriser 
+   - `#` (Ctrl + h/r) * 2 : Refactoriser 
 
 
 ## 43. Basic Input Binding
